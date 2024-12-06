@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\UTILI\ISO\TEST_ANSIEDADHAMILTON\BUILD\WINDOWS\X64\CMAKEFILES\BF94C871970E8C2210FF510802692FDC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Asus/Desktop/utili/iso/test_ansiedadhamilton/windows -BC:/Users/Asus/Desktop/utili/iso/test_ansiedadhamilton/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Asus/Desktop/utili/iso/test_ansiedadhamilton/build/windows/x64/test_ansiedad.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
