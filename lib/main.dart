@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
 
   // Verifica si 'arguments' es nulo o no es del tipo esperado
   if (arguments == null || arguments is! List<int>) {
+    print("Navegando hacia '/result' con argumentos: $arguments");
     print("Los argumentos pasados son inválidos o nulos.");
     return ResultView(answers: []); // Usa una lista vacía por defecto
   }

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\utili\iso\test_ansiedad\build\windows\x64\CMakeFiles\2412db6997ca7346de8a046bc3e6c97a\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FC261090-D4BC-339E-812E-195809BF889A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/assets/chatbot_icon.png
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Asus/Desktop/utili/iso/test_ansiedad/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

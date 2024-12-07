@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'dart:io';
 import '../config.dart';
 class OpenAIService {
-  
+
   Future<String> getDiagnosis(List<int> answers) async {
     // Convertir las respuestas en una cadena para enviar al modelo
     String answersText = answers.join(', ');
